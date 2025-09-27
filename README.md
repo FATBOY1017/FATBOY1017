@@ -1,5 +1,5 @@
 <h1 align="center">HI 欢迎来到我的Github</h1>
-<h3 align="center">吃百家饭长大的编程爱好者</h3>
+<h3 align="center">😀</h3>
 
 ![images](https://github.com/FATBOY1017/FATBOY1017/blob/main/1.png)
 
